@@ -19,4 +19,4 @@
 ## Compatibilidade
 - [x] Desktop
 
-:link:[Link do jogo aqui!](https://marcelo-abreeu.github.io/Pong-Javascript/)
+:link:[Link do jogo aqui!](https://marcelo-abreeu.github.io/Pong-JavaScript/)
