@@ -23,7 +23,7 @@ span{
   height: 100%;
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(45deg, #fffdd0,#f6f5d9);
+  background-image: linear-gradient(45deg, #fcfad3,#f6f5d9);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -190,7 +190,7 @@ nav ul li.btn:hover a{
   width: 43%;
   height: 70%;
   bottom: 5px;
-  right: 61px;
+  right: 0%;
   text-align: right;
 }
 
@@ -199,12 +199,16 @@ nav ul li.btn:hover a{
 }
 
 @media screen and (max-width: 1200px) {
-  img{
-    display: none;
+  .image{
+    width: 35%;
+    top: 30%;
   }
 }
 
 @media screen and (max-width: 965px) {
+  .image{
+    display: none;
+  }
   #menu {
     display: flex;
     position: absolute;
@@ -288,5 +292,14 @@ nav ul li.btn:hover a{
 .content .main-text a.cta {
   margin: 10px 0px 0px;
 }
+}
+
+@media screen and (max-width: 320px) {
+  .content .main-text h1{
+    font-size: 35px;
+  }
+  .content .social{
+    columns: 3;
+  }
 }
 
