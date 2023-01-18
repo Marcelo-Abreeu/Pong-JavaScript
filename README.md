@@ -1,13 +1,19 @@
-## [![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)  Projeto Pong com HTML  CSS e JAVASCRIPT
+<h1 align="center">Jogo Pong </h1>
 
 <img src="img-backg/img-site.png" alt="img" style="zoom: 50%;"/>  
 
 <img src="img-backg/img-sitte.png" alt="img" style="zoom: 50%;"/>    
 
+## Descrição
+Recriando o jogo pong em duas linguagens de programação diferentes.
 
-###### Linguagens Utilizadas
+- Versão Final: [Game Pong](https://marcelo-abreeu.github.io/Pong-Javascript/)
 
+## Tecnologias
 
+Neste projeto foi usado as seguintes linguagens de programação:
+
+Pong JavaScript:
 
 - `HTML`
 
@@ -15,8 +21,19 @@
 
 - `JavaScript`
 
+Pong No Scratch:
+
+- `Linguagem de programação visual Scratch`
+
+## Bibliotecas
+
+-[Google Fonts](https://fonts.google.com/)
+-[P5 Js](https://p5js.org/)
 
 ## Compatibilidade
 - [x] Desktop
+- [v] Mobile
 
-:link:[Link do jogo aqui!](https://marcelo-abreeu.github.io/Pong-JavaScript/)
+-----
+
+<h3 align="center"> Developed by <a href="#">Marcelo Abreu</a></h3>
