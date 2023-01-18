@@ -13,8 +13,6 @@ Recriando o jogo pong em duas linguagens de programação diferentes.
 
 Neste projeto foi usado as seguintes linguagens de programação:
 
-Pong JavaScript:
-
 - `HTML`
 
 - `CSS`
