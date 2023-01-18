@@ -1,4 +1,4 @@
-<h1 align="center">Jogo Pong 🏓</h1>
+<h1 align="center"> jogo pong 🏓</h1>
 
 <img src="img-backg/img-site.png" alt="img" style="zoom: 50%;"/>  
 
@@ -21,15 +21,14 @@ Pong JavaScript:
 
 - `JavaScript`
 
-Pong No Scratch:
+- `Scratch`
 
-- `Linguagem de programação visual Scratch`
 
 ## 📚 Bibliotecas
 
--[Google Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
 
--[P5 Js](https://p5js.org/)
+- [Biblioteca P5 JS](https://p5js.org/)
 
 ## ✅ Compatibilidade
 - [x] Desktop
