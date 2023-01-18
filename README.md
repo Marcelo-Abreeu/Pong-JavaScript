@@ -7,7 +7,7 @@
 ## 📝 Descrição
 Recriando o jogo pong em duas linguagens de programação diferentes.
 
-- Versão Final: [Game Pong](https://marcelo-abreeu.github.io/Pong-Javascript/)
+- Versão Final: [Game Pong](https://marcelo-abreeu.github.io/Pong-JavaScript/)
 
 ## 🚀 Tecnologias
 
