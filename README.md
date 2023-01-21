@@ -11,7 +11,7 @@ Recriando o jogo pong em duas linguagens de programação diferentes. Suporte ap
 
 ## 🚀 Tecnologias
 
-Neste projeto foi usado as seguintes linguagens de programação:
+Neste projeto foi usado as seguintes Tecnologias:
 
 - HTML
 - CSS
@@ -23,7 +23,7 @@ Neste projeto foi usado as seguintes linguagens de programação:
 
 - [Google Fonts](https://fonts.google.com/)
 
-- [Biblioteca P5 JS](https://p5js.org/)
+- [P5 JS Library](https://p5js.org/)
 
 -----
 
