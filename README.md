@@ -14,11 +14,8 @@ Recriando o jogo pong em duas linguagens de programação diferentes. Suporte ap
 Neste projeto foi usado as seguintes linguagens de programação:
 
 - HTML
-
 - CSS
-
 - JavaScript
-
 - Scratch
 
 
