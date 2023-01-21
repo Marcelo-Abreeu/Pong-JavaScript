@@ -5,7 +5,7 @@
 <img src="img-backg/img-sitte.png" alt="img" style="zoom: 50%;"/>    
 
 ## 📝 Descrição
-Recriando o jogo pong em duas linguagens de programação diferentes.
+Recriando o jogo pong em duas linguagens de programação diferentes. Suporte apenas para desktop.
 
 - Versão Final: [Game Pong](https://marcelo-abreeu.github.io/Pong-JavaScript/)
 
@@ -13,13 +13,13 @@ Recriando o jogo pong em duas linguagens de programação diferentes.
 
 Neste projeto foi usado as seguintes linguagens de programação:
 
-- `HTML`
+- HTML
 
-- `CSS`
+- CSS
 
-- `JavaScript`
+- JavaScript
 
-- `Scratch`
+- Scratch
 
 
 ## 📚 Bibliotecas
@@ -27,9 +27,6 @@ Neste projeto foi usado as seguintes linguagens de programação:
 - [Google Fonts](https://fonts.google.com/)
 
 - [Biblioteca P5 JS](https://p5js.org/)
-
-## ✅ Compatibilidade
-- [x] Desktop
 
 -----
 
