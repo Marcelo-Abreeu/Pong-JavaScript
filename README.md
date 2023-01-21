@@ -1,4 +1,4 @@
-<h1 align="center"> jogo pong 🏓</h1>
+<h1 align="center"> Pong Game 🏓</h1>
 
 <img src="img-backg/img-site.png" alt="img" style="zoom: 50%;"/>  
 
