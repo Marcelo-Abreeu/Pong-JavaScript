@@ -3,7 +3,7 @@
 <img src="img-backg/ScreenshotSite.png" alt="img" style="zoom: 50%;"/>  
 
 ## 📝 Descrição
-Recriando o jogo pong em duas linguagens de programação diferentes. Suporte apenas para desktop.
+Recriando o jogo pong em duas linguagens de programação diferentes. Tem Suporte apenas para desktop, você encontra as duas versões do jogo clicando nos links.
 
 - Versão Final: [Game Pong](https://marcelo-abreeu.github.io/Pong-JavaScript/)
 
