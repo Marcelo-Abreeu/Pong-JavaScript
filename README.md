@@ -1,8 +1,6 @@
 <h1 align="center"> Pong Game 🏓</h1>
 
-<img src="img-backg/img-site.png" alt="img" style="zoom: 50%;"/>  
-
-<img src="img-backg/img-sitte.png" alt="img" style="zoom: 50%;"/>    
+<img src="img-backg/ScreenshotSite.png" alt="img" style="zoom: 50%;"/>  
 
 ## 📝 Descrição
 Recriando o jogo pong em duas linguagens de programação diferentes. Suporte apenas para desktop.
